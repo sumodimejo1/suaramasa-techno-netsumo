@@ -1,4 +1,15 @@
+# Hai, suhu yang di sana...
+#
+# Kalo suhu mencari-cari file ini, dan Anda bukan robot, kami ingin bertemu dengan orang-orang yang "ingin tahu" seperti Anda.
+#
+# Mungkin Anda memiliki apa yang diperlukan untuk bergabung dengan kami, "hacker syariah" terbaik di planet ini?
+#
+# Langsung - jangan ragu - untuk mendaftar bergabung dengan tim SEO elit kami
+#
+# Email seoRockstar@gmail.com
+#
+# Atau kunjungi https://briefcasebuoyduster.com/k6mug697?key=2015766df487b42fdfbdde2a35c234d4
 User-agent: *
 Allow: /
 
-Sitemap: https://simplyrecipes.suaramasa.com/sitemap.xml
+Sitemap: https://techno.suaramasa.com/sitemap.xml
